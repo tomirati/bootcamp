@@ -1,0 +1,15 @@
+D:\bootcamp\C#\app\bin\Debug\net7.0\app.exe
+D:\bootcamp\C#\app\bin\Debug\net7.0\app.deps.json
+D:\bootcamp\C#\app\bin\Debug\net7.0\app.runtimeconfig.json
+D:\bootcamp\C#\app\bin\Debug\net7.0\app.dll
+D:\bootcamp\C#\app\bin\Debug\net7.0\app.pdb
+D:\bootcamp\C#\app\obj\Debug\net7.0\app.csproj.AssemblyReference.cache
+D:\bootcamp\C#\app\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp\C#\app\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+D:\bootcamp\C#\app\obj\Debug\net7.0\app.AssemblyInfo.cs
+D:\bootcamp\C#\app\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+D:\bootcamp\C#\app\obj\Debug\net7.0\app.dll
+D:\bootcamp\C#\app\obj\Debug\net7.0\refint\app.dll
+D:\bootcamp\C#\app\obj\Debug\net7.0\app.pdb
+D:\bootcamp\C#\app\obj\Debug\net7.0\app.genruntimeconfig.cache
+D:\bootcamp\C#\app\obj\Debug\net7.0\ref\app.dll
